@@ -12,5 +12,6 @@ Mac Pro 6.1 (2013)
 | Files and Documents | Google Drive/One drive like in local network | https://www.seafile.com/en/home/ |
 | Document Management | To try | https://docs.paperless-ngx.com |
 | Medical Records |. To try | https://meremedical.co |
+| Travel and Places | https://adventurelog.app |
 
 
